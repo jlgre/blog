@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://greentings.lukegreen.xyz/"
 languageCode = "en-us"
 title = "In the Greentime"
 theme = "smol"
