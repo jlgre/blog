@@ -1,0 +1,21 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "In the Greentime"
+theme = "smol"
+[params]
+    subtitle = "Musings of a young software engineer"
+    dateFmt = "01.02.2006 03:04PM"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts/"
+        weight = 1 
+
+# Footer
+  [[menu.footer]]
+        name = "Github"
+        url = "https://github.com/jlgre"
+        weight = 1 
