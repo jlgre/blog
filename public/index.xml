@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In the Greentime</title>
-    <link>https://greentings.lukegreen.xyz/</link>
+    <link>https://greentime.lukegreen.xyz/</link>
     <description>Recent content on In the Greentime</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 May 2021 21:09:39 -0500</lastBuildDate>
     
-	<atom:link href="https://greentings.lukegreen.xyz/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://greentime.lukegreen.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Greentings</title>
-      <link>https://greentings.lukegreen.xyz/posts/whoami/</link>
+      <link>https://greentime.lukegreen.xyz/posts/whoami/</link>
       <pubDate>Mon, 17 May 2021 21:09:39 -0500</pubDate>
       
-      <guid>https://greentings.lukegreen.xyz/posts/whoami/</guid>
+      <guid>https://greentime.lukegreen.xyz/posts/whoami/</guid>
       <description>Introduction My name is Luke Green. I am a Software Engineer working at Therapy Brands with Fusion Web Clinic and Thera-LINK. All opinions are my own.
 I am starting this blog as an exercise in learning more than anything, and if I can share some information along the way that is an added bonus. A blog will give me an excuse to collect my thoughts about things that I think are important, as well as hopefully receive feedback from others and hear new opinions.</description>
     </item>
